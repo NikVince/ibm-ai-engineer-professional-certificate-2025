@@ -195,9 +195,3 @@ Upon completion of all courses, this repository will serve as a comprehensive po
 - Generative AI and Large Language Models
 - AI Engineering and Deployment
 - Practical AI Application Development
-
----
-
-**Start Date**: January 2025  
-**Target Completion**: June 2025  
-**Total Estimated Hours**: 150+ hours
